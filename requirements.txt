@@ -1,0 +1,9 @@
+# Fix cứng phiên bản Numpy dưới 2.0 để tránh lỗi
+numpy<2.0.0
+
+# Các thư viện chính
+setfit
+scikit-learn
+datasets
+huggingface-hub
+pandas

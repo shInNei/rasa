@@ -1,0 +1,80 @@
+text,label_str
+trong này tối om vậy,LIGHT_ON
+không thấy đường gì cả,LIGHT_ON
+bật cái bóng tuýp lên,LIGHT_ON
+lên đèn đi bạn ơi,LIGHT_ON
+đèn đóm đâu hết rồi,LIGHT_ON
+cho xin tí lux đi,LIGHT_ON
+ánh sáng yếu quá,LIGHT_ON
+chiếu sáng phòng này lên,LIGHT_ON
+turn the lights on,LIGHT_ON
+bật công tắc nguồn đèn,LIGHT_ON
+mở đèn bàn học,LIGHT_ON
+bật đèn chùm lên,LIGHT_ON
+làm việc phải có ánh sáng chứ,LIGHT_ON
+tối thế này hại mắt lắm,LIGHT_ON
+đèn đâu sáng lên coi,LIGHT_ON
+activate the lights, LIGHT_ON
+turn the light on please, LIGHT_ON
+lên đèn đi anh ơi, LIGHT_ON
+tiết kiệm điện tắt bớt đi,LIGHT_OFF
+sáng trưng rồi tắt đèn thôi,LIGHT_OFF
+ra khỏi phòng nhớ tắt điện,LIGHT_OFF
+off the lights,LIGHT_OFF
+tắt cái bóng ngay trên đầu,LIGHT_OFF
+để đèn làm gì tốn điện,LIGHT_OFF
+không ai ở nhà tắt đèn đi,LIGHT_OFF
+đi ngủ tắt điện giùm,LIGHT_OFF
+chói quá không ngủ được,LIGHT_OFF
+giảm ánh sáng về 0,LIGHT_OFF
+cúp cầu dao đèn đi,LIGHT_OFF
+tắt hệ thống đèn led,LIGHT_OFF
+turn off all lights,LIGHT_OFF
+tối rồi tắt đèn đi ngủ,LIGHT_OFF
+ngắt bóng,LIGHT_OFF
+hầm quá chịu không nổi,FAN_ON
+bí bách quá bật gió lên,FAN_ON
+đổ mồ hôi hột rồi nè,FAN_ON
+nực nội quá đi mất,FAN_ON
+làm mát phòng ngay,FAN_ON
+start the fan,FAN_ON
+bật quạt số to nhất,FAN_ON
+cho cái quạt quay đi,FAN_ON
+không có gió ngộp quá,FAN_ON
+mở máy gió lên,FAN_ON
+quạt trần đâu quay đi,FAN_ON
+bật công tắc quạt,FAN_ON
+nóng thế này sống sao nổi,FAN_ON
+cần luồng gió mát,FAN_ON
+fan speed up,FAN_ON
+rét run người rồi tắt quạt,FAN_OFF
+gió to quá bay hết giấy tờ,FAN_OFF
+tắt quạt đi kẻo ốm,FAN_OFF
+buốt đầu quá tắt gió đi,FAN_OFF
+dừng cái máy quạt lại,FAN_OFF
+đừng quay nữa chóng mặt quá,FAN_OFF
+stop the fan now,FAN_OFF
+tắt nguồn quạt,FAN_OFF
+không cần gió nữa,FAN_OFF
+lạnh teo rồi,FAN_OFF
+ngắt công tắc quạt trần,FAN_OFF
+tắt quạt để tiết kiệm điện,FAN_OFF
+gió thổi vù vù tắt đi,FAN_OFF
+fan off please,FAN_OFF
+switch off the fan,FAN_OFF
+ngừng làm mát,FAN_OFF
+mở rèm cửa ra,NONE
+kéo rèm lại,NONE
+bật máy lạnh lên 25 độ,NONE
+tăng nhiệt độ điều hòa,NONE
+mở tivi xem thời sự,NONE
+chuyển kênh vtv3,NONE
+âm lượng to lên,NONE
+bật bình nóng lạnh,NONE
+khóa cửa nhà lại,NONE
+báo thức lúc 6 giờ sáng,NONE
+mua dùm chai nước mắm,NONE
+đặt lịch họp ngày mai,NONE
+gọi taxi giúp tôi,NONE
+kết quả xổ số hôm nay,NONE
+giá vàng bao nhiêu,NONE

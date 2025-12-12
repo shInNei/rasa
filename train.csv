@@ -1,0 +1,89 @@
+text,label_str
+bật đèn lên,LIGHT_ON
+mở đèn nhé,LIGHT_ON
+làm ơn bật điện,LIGHT_ON
+sáng đèn lên,LIGHT_ON
+trong phòng tối quá,LIGHT_ON
+bật công tắc đèn giùm,LIGHT_ON
+ánh sáng đâu rồi,LIGHT_ON
+kích hoạt đèn,LIGHT_ON
+turn on light,LIGHT_ON
+đèn sáng lên nào,LIGHT_ON
+mở bóng điện đi,LIGHT_ON
+cần chút ánh sáng,LIGHT_ON
+bật đèn phòng khách,LIGHT_ON
+bật hết đèn lên,LIGHT_ON
+cho xin tí ánh sáng,LIGHT_ON
+light on please,LIGHT_ON
+mở đèn lên cho sáng sủa,LIGHT_ON
+bật đèn ngay và luôn,LIGHT_ON
+tắt đèn đi,LIGHT_OFF
+ngắt điện ngay,LIGHT_OFF
+tối quá tắt đèn,LIGHT_OFF
+tắt bóng đèn,LIGHT_OFF
+chói mắt quá tắt đi,LIGHT_OFF
+đi ngủ thôi tắt điện,LIGHT_OFF
+ngắt công tắc đèn,LIGHT_OFF
+turn off light,LIGHT_OFF
+tắt hết đèn đóm đi,LIGHT_OFF
+dập cầu dao đèn,LIGHT_OFF
+không cần ánh sáng nữa,LIGHT_OFF
+tắt đèn giùm cái,LIGHT_OFF
+light off,LIGHT_OFF
+shutdown lights,LIGHT_OFF
+đừng bật đèn nữa,LIGHT_OFF
+tắt đèn phòng ngủ,LIGHT_OFF
+tắt hệ thống chiếu sáng,LIGHT_OFF
+quạt nóng quá,FAN_ON
+bật quạt lên,FAN_ON
+khởi động quạt,FAN_ON
+cho mát tí đi,FAN_ON
+nực quá mở quạt,FAN_ON
+mở máy quạt nhanh lên,FAN_ON
+fan on,FAN_ON
+quay quạt đi,FAN_ON
+bật gió lên,FAN_ON
+kích hoạt quạt trần,FAN_ON
+nóng chảy mỡ rồi bật quạt,FAN_ON
+turn on fan,FAN_ON
+khởi động hệ thống làm mát,FAN_ON
+bật quạt số 1,FAN_ON
+mở quạt phe phẩy đi,FAN_ON
+thổi gió đi nào,FAN_ON
+bật cái quạt máy,FAN_ON
+lạnh rồi tắt quạt,FAN_OFF
+dừng quạt lại,FAN_OFF
+stop fan,FAN_OFF
+ngắt quạt,FAN_OFF
+tắt máy quạt đi,FAN_OFF
+lạnh quá không cần quạt,FAN_OFF
+turn off fan,FAN_OFF
+ngừng quay,FAN_OFF
+tắt gió đi,FAN_OFF
+fan shutdown,FAN_OFF
+dừng cánh quạt lại,FAN_OFF
+tắt quạt trần giùm,FAN_OFF
+ồn quá tắt quạt đi,FAN_OFF
+đừng thổi nữa,FAN_OFF
+ngắt nguồn quạt,FAN_OFF
+tắt quạt ngay,FAN_OFF
+chào bạn,NONE
+hello,NONE
+hôm nay trời đẹp,NONE
+bạn tên là gì,NONE
+mấy giờ rồi,NONE
+đang làm gì đó,NONE
+tôi đói bụng quá,NONE
+hát một bài đi,NONE
+kể chuyện cười nghe chơi,NONE
+mở cửa ra,NONE
+bật tivi lên,NONE
+gọi điện cho mẹ,NONE
+thời tiết thế nào,NONE
+bây giờ là mấy giờ,NONE
+xin chào trợ lý ảo,NONE
+bạn có người yêu chưa,NONE
+ai tạo ra bạn vậy,NONE
+mở nhạc sơn tùng,NONE
+đi chơi không,NONE
+good morning,NONE
