@@ -1,4 +1,147 @@
 text,label_str
+bật chế độ tự động cho quạt,FAN_AUTO_ON
+mở chế độ tự động cho quạt,FAN_AUTO_ON
+khởi động chế độ tự động cho quạt,FAN_AUTO_ON
+kích hoạt chế độ tự động cho quạt,FAN_AUTO_ON
+để quạt tự chạy theo nhiệt độ,FAN_AUTO_ON
+fan auto mode on,FAN_AUTO_ON
+bật tính năng tự động làm mát,FAN_AUTO_ON
+mở tính năng tự động làm mát,FAN_AUTO_ON
+cho quạt chạy auto đi,FAN_AUTO_ON
+quạt tự động bật nhé,FAN_AUTO_ON
+set quạt chế độ auto,FAN_AUTO_ON
+auto fan bật lên,FAN_AUTO_ON
+giao quyền điều khiển quạt cho cảm biến,FAN_AUTO_ON
+tắt chế độ tự động của quạt,FAN_AUTO_OFF
+dừng chạy auto quạt,FAN_AUTO_OFF
+tắt cảm biến tự động của quạt đi,FAN_AUTO_OFF
+tắt chế độ tự động của quạt đi,FAN_AUTO_OFF
+chuyển quạt sang thủ công,FAN_AUTO_OFF
+fan auto off,FAN_AUTO_OFF
+không cho quạt tự chạy nữa,FAN_AUTO_OFF
+hủy chế độ tự động quạt,FAN_AUTO_OFF
+tắt tính năng auto fan,FAN_AUTO_OFF
+ngắt auto quạt,FAN_AUTO_OFF
+dừng tự động làm mát,FAN_AUTO_OFF
+đèn tự động bật nhé,LIGHT_AUTO_ON
+kích hoạt cảm biến tự động ánh sáng,LIGHT_AUTO_ON
+mở chế độ tự động của đèn,LIGHT_AUTO_ON
+bật chế độ auto cho đèn,LIGHT_AUTO_ON
+để đèn tự sáng khi tối,LIGHT_AUTO_ON
+light auto on,LIGHT_AUTO_ON
+cho đèn chạy theo cảm biến,LIGHT_AUTO_ON
+set đèn auto đi,LIGHT_AUTO_ON
+tự động chiếu sáng bật,LIGHT_AUTO_ON
+bật tính năng đèn thông minh,LIGHT_AUTO_ON
+chế độ đèn tự động,LIGHT_AUTO_ON
+để chế độ tự động đèn,LIGHT_AUTO_ON
+tắt đèn tự động đi,LIGHT_AUTO_OFF
+không dùng cảm biến ánh sáng nữa,LIGHT_AUTO_OFF
+chuyển đèn về chỉnh tay,LIGHT_AUTO_OFF
+ngừng chế độ tự động đèn,LIGHT_AUTO_OFF
+ngừng chế độ chiếu sáng,LIGHT_AUTO_OFF
+tắt auto light,LIGHT_AUTO_OFF
+dừng chế độ đèn tự động,LIGHT_AUTO_OFF
+ngắt tính năng tự sáng,LIGHT_AUTO_OFF
+hủy auto đèn,LIGHT_AUTO_OFF
+light auto off,LIGHT_AUTO_OFF
+tắt cảm biến đèn,LIGHT_AUTO_OFF
+đừng tự bật đèn nữa,LIGHT_AUTO_OFF
+chỉnh quạt số 1,FAN_SET_LEVEL_1
+bật quạt mức nhỏ nhất,FAN_SET_LEVEL_1
+cho quạt quay hiu hiu thôi,NONE
+quạt số nhỏ thôi nhé,FAN_SET_LEVEL_1
+gió phe phẩy là được rồi,NONE
+mở chế độ Breeze,FAN_SET_LEVEL_1
+mở chế độ Breeze của quạt,FAN_SET_LEVEL_1
+bật chế độ Breeze,FAN_SET_LEVEL_1
+để chế độ Breeze,FAN_SET_LEVEL_1
+bật quạt số một,FAN_SET_LEVEL_1
+quạt mức 1,FAN_SET_LEVEL_1
+gió nhẹ thôi,FAN_SET_LEVEL_1
+mở chế độ normal của quạt,FAN_SET_LEVEL_1
+mở chế độ normal,NONE
+mở chế độ Turbo,FAN_SET_LEVEL_3
+bật chế độ Turbo,FAN_SET_LEVEL_3
+bật chế độ Dim,LIGHT_SET_LEVEL_1
+mở chế độ Dim,LIGHT_SET_LEVEL_1
+mở chế độ Bright,LIGHT_SET_LEVEL_3
+mở chế độ Bright của đèn,LIGHT_SET_LEVEL_3
+mở chế độ Normal của đèn,LIGHT_SET_LEVEL_2
+bật chế độ Normal,NONE
+bật chế độ Normal của đèn,LIGHT_SET_LEVEL_2
+chuyển sang Breeze,FAN_SET_LEVEL_1
+chuyển sang Turbo,FAN_SET_LEVEL_3
+chuyển sang mức Normal của quạt,FAN_SET_LEVEL_2
+chuyển sang mức Dim,LIGHT_SET_LEVEL_1
+chỉnh quạt lên số 2,FAN_SET_LEVEL_2
+tăng gió lên mức trung bình,FAN_SET_LEVEL_2
+quạt số vừa vừa thôi,FAN_SET_LEVEL_2
+mức gió số 2 nha,FAN_SET_LEVEL_2
+bật quạt số hai,FAN_SET_LEVEL_2
+quạt mức 2,FAN_SET_LEVEL_2
+gió vừa phải,FAN_SET_LEVEL_2
+chỉnh quạt số 3 nhanh,FAN_SET_LEVEL_3
+bật quạt mạnh nhất lên,FAN_SET_LEVEL_3
+cho gió to hết cỡ đi,FAN_SET_LEVEL_3
+tốc độ cao nhất cho quạt,FAN_SET_LEVEL_3
+quạt max speed,FAN_SET_LEVEL_3
+bão cấp 12 luôn đi,NONE
+gió mạnh lên coi,FAN_SET_LEVEL_3
+bật quạt số ba,FAN_SET_LEVEL_3
+quạt mức 3,FAN_SET_LEVEL_3
+đèn sáng mức 1,LIGHT_SET_LEVEL_1
+chỉnh đèn tối tối lại,LIGHT_SET_LEVEL_1
+đèn ngủ thôi mức thấp nhất,LIGHT_SET_LEVEL_1
+ánh sáng mờ mờ thôi,LIGHT_SET_LEVEL_1
+giảm độ sáng về 1,LIGHT_SET_LEVEL_1
+bật đèn số một,LIGHT_SET_LEVEL_1
+đèn mức 1,LIGHT_SET_LEVEL_1
+tăng đèn lên số 2,LIGHT_SET_LEVEL_2
+đèn sáng vừa phải,LIGHT_SET_LEVEL_2
+mức sáng trung bình nhé,LIGHT_SET_LEVEL_2
+chỉnh độ sáng mức 2,LIGHT_SET_LEVEL_2
+bật đèn số hai,LIGHT_SET_LEVEL_2
+đèn mức 2,LIGHT_SET_LEVEL_2
+bật đèn sáng nhất cho tao,LIGHT_SET_LEVEL_3
+đèn mức 3 đi,LIGHT_SET_LEVEL_3
+tăng max độ sáng lên,LIGHT_SET_LEVEL_3
+sáng trưng lên coi,LIGHT_SET_LEVEL_3
+đèn sáng hết cỡ nhé,LIGHT_SET_LEVEL_3
+full brightness light,LIGHT_SET_LEVEL_3
+bật đèn số ba,LIGHT_SET_LEVEL_3
+đèn mức 3,LIGHT_SET_LEVEL_3
+lưu ngưỡng lại,SET_THRESHOLD
+lưu cài đặt ngưỡng,SET_THRESHOLD
+lưu thiết lập hiện tại,SET_THRESHOLD
+xác nhận ngưỡng mới,SET_THRESHOLD
+save threshold,SET_THRESHOLD
+lưu mốc kích hoạt,SET_THRESHOLD
+cập nhật ngưỡng,SET_THRESHOLD
+ghi nhớ cài đặt này,SET_THRESHOLD
+lưu lại các thay đổi ngưỡng,SET_THRESHOLD
+lưu cấu hình cảm biến,SET_THRESHOLD
+chốt ngưỡng này nhé,SET_THRESHOLD
+ok lưu ngưỡng,SET_THRESHOLD
+lưu lại thông số,SET_THRESHOLD
+confirm threshold,SET_THRESHOLD
+lưu mức này làm chuẩn,SET_THRESHOLD
+lưu giới hạn hiện tại,SET_THRESHOLD
+save settings,SET_THRESHOLD
+lưu cấu hình ngưỡng quạt,SET_THRESHOLD
+lưu cài đặt ngưỡng đèn,SET_THRESHOLD
+lưu mốc nhiệt độ này,SET_THRESHOLD
+xác nhận giá trị ngưỡng,SET_THRESHOLD
+reset ngưỡng quạt,RESET_THRESHOLD
+khôi phục cài đặt gốc cho quạt,RESET_THRESHOLD
+xóa hết thiết lập ngưỡng quạt,RESET_THRESHOLD
+reset fan threshold,RESET_THRESHOLD
+về mặc định cho quạt đi,RESET_THRESHOLD
+reset ngưỡng đèn,RESET_THRESHOLD
+đặt lại cảm biến đèn về ban đầu,RESET_THRESHOLD
+reset light threshold,RESET_THRESHOLD
+khôi phục mặc định đèn,RESET_THRESHOLD
+xóa cài đặt ngưỡng ánh sáng,RESET_THRESHOLD
 bật đèn lên,LIGHT_ON
 mở đèn nhé,LIGHT_ON
 làm ơn bật điện,LIGHT_ON
@@ -47,9 +190,6 @@ kích hoạt quạt trần,FAN_ON
 nóng chảy mỡ rồi bật quạt,FAN_ON
 turn on fan,FAN_ON
 khởi động hệ thống làm mát,FAN_ON
-bật quạt số 1,FAN_ON
-mở quạt phe phẩy đi,FAN_ON
-thổi gió đi nào,FAN_ON
 bật cái quạt máy,FAN_ON
 lạnh rồi tắt quạt,FAN_OFF
 dừng quạt lại,FAN_OFF
@@ -67,6 +207,60 @@ tắt quạt trần giùm,FAN_OFF
 đừng thổi nữa,FAN_OFF
 ngắt nguồn quạt,FAN_OFF
 tắt quạt ngay,FAN_OFF
+bot ơi bật đèn lên,LIGHT_ON
+mở đèn lên,LIGHT_ON
+kích hoạt chiếu sáng,LIGHT_ON
+em êi mở đèn giúp anh,LIGHT_ON
+tao muốn bật đèn,LIGHT_ON
+trợ lý ảo bật điện phòng khách,LIGHT_ON
+làm ơn mở đèn lên dùm tôi,LIGHT_ON
+anh muốn tắt đèn đi ngủ,LIGHT_OFF
+ngừng kích hoạt chiếu sáng,LIGHT_OFF
+mày tắt đèn ngay cho tao,LIGHT_OFF
+bot tắt điện giùm cái,LIGHT_OFF
+chị muốn tắt hết bóng đèn,LIGHT_OFF
+em tắt đèn đi nhé,LIGHT_OFF
+ê bot bật quạt lên,FAN_ON
+anh nóng quá bật quạt đi,FAN_ON
+kích hoạt quạt,FAN_ON
+bật quạt,FAN_ON
+mở quạt cho tao,FAN_ON
+làm ơn bật quạt giùm tôi,FAN_ON
+bạn ơi khởi động quạt nhé,FAN_ON
+lạnh rồi tắt quạt dùm em,FAN_OFF
+anh muốn tắt quạt,FAN_OFF
+mày dừng cái quạt lại đi,FAN_OFF
+bot ơi tắt gió,FAN_OFF
+tắt quạt giùm tui nha,FAN_OFF
+bật tivi lên,NONE
+mở máy lạnh 18 độ,NONE
+tắt điều hòa đi,NONE
+khóa cửa nhà lại,NONE
+mở rèm cửa ra,NONE
+bật bình nóng lạnh,NONE
+bật máy bơm nước,NONE
+tắt tivi dùm cái,NONE
+chỉnh nhiệt độ máy lạnh,NONE
+mở youtube trên tivi,NONE
+bật loa to lên,NONE
+giảm âm lượng tivi,NONE
+chuyển kênh vtv3,NONE
+nấu cơm đi,NONE
+quét nhà đi robot,NONE
+bật máy hút bụi,NONE
+gọi điện cho mẹ,NONE
+nhắn tin cho bố,NONE
+báo thức lúc 6 giờ,NONE
+đặt lịch hẹn ngày mai,NONE
+mở nhạc sơn tùng,NONE
+chơi nhạc đen vâu đi,NONE
+thời tiết hôm nay thế nào,NONE
+giá vàng bao nhiêu,NONE
+bật lên đi,NONE
+tắt nó đi,NONE
+chỉnh cái kia kìa,NONE
+mở ra mau lên,NONE
+đóng lại đi,NONE
 chào bạn,NONE
 hello,NONE
 hôm nay trời đẹp,NONE
@@ -77,7 +271,6 @@ tôi đói bụng quá,NONE
 hát một bài đi,NONE
 kể chuyện cười nghe chơi,NONE
 mở cửa ra,NONE
-bật tivi lên,NONE
 gọi điện cho mẹ,NONE
 thời tiết thế nào,NONE
 bây giờ là mấy giờ,NONE
@@ -87,3 +280,22 @@ ai tạo ra bạn vậy,NONE
 mở nhạc sơn tùng,NONE
 đi chơi không,NONE
 good morning,NONE
+chào bot nhé,NONE
+bot tên là gì vậy,NONE
+mày đang làm gì đó bot,NONE
+anh buồn quá nói chuyện chơi,NONE
+mở cảm biến lên,NONE
+đèn,NONE
+quạt,NONE
+auto,NONE
+cảm biến,NONE
+mở lên,NONE
+turn on,NONE
+turn off,NONE
+bật lên,NONE
+mở mức 1,NONE
+mở mức 2,NONE
+mở mức 3,NONE
+ngừng chế độ tự động,NONE
+bật tắt đèn,NONE
+bật tắt quạt,NONE

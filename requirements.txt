@@ -1,9 +1,18 @@
-# Fix cứng phiên bản Numpy dưới 2.0 để tránh lỗi
 numpy<2.0.0
 
-# Các thư viện chính
+# 3. Các thư viện AI & Data
 setfit
 scikit-learn
 datasets
 huggingface-hub
 pandas
+
+# 4. Thư viện PyTorch (Core)
+torch
+torchvision
+torchaudio
+
+# 5. Thư viện để Deploy (API Service)
+fastapi
+uvicorn
+requests
