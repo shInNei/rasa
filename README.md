@@ -1,4 +1,9 @@
-python -m venv venv   
+## Version python: 3.12
+(Các version cũ hơn hoặc mới hơn sẽ gặp bug)
+python -m venv venv
+# Lưu ý nếu không có python version 3.12
+1. Tải về python version 3.12 tại đây: https://www.python.org/ftp/python/3.12.8/python-3.12.8-amd64.exe
+2. Tạo env bằng lệnh sau: py -3.12 -m venv venv   
 .\venv\Scripts\activate  
 pip install -r requirements.txt      
 (lệnh trên lệnh cài đặt)
